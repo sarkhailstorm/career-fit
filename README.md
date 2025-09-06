@@ -34,7 +34,6 @@ The backend is built with **Python + FastAPI** and powered by a local **LLM**. T
 ## Prerequisites
 
 - **Python** (>= 3.10)  
-- **Node.js** (>= 18.x)  
 - **Ollama** installed locally ([Download here](https://ollama.com/download))  
 - A pulled model (choose one):
 
